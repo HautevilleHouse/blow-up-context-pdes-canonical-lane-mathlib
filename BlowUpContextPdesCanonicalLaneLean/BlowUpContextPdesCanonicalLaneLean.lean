@@ -1,0 +1,11 @@
+import BlowUpContextPdesCanonicalLaneLean.AdmissibleClass
+import BlowUpContextPdesCanonicalLaneLean.BlowUpModel
+import BlowUpContextPdesCanonicalLaneLean.BlowUpAnalysisBridge
+import BlowUpContextPdesCanonicalLaneLean.BlowUpRegularity
+import BlowUpContextPdesCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace BlowUpContextPdesCanonicalLaneLean
+
+end BlowUpContextPdesCanonicalLaneLean
+end HautevilleHouse
